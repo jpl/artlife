@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eventmachine (1.0.3)
+    shoulda-context (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  shoulda-context

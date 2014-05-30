@@ -1,0 +1,17 @@
+- Fonctionnement par itération
+- Le but est de reproduire une population et sélectionner les meilleurs individus
+
+Le Monde :
+
+Les individus :
+Le but d'un individu est de se reproduire
+
+a. Capteurs
+- Affinité sexe
+- Affinité age
+
+b. Propriétés
+- Sexe
+- Age
+
+Le jeu se termine quand la population n'évolue plus
